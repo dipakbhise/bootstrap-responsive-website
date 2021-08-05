@@ -1,3 +1,3 @@
-# bootstrap-responsive-website
+# Bootstrap Responsive Website
 
-check output here <a href="https://dipakbhise.github.io/bootstrap-responsive-website/">Output
+# Check Output Here <a href="https://dipakbhise.github.io/bootstrap-responsive-website/">Bootstrap Responsive Website
